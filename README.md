@@ -1,8 +1,5 @@
 # The Odin Project - Recipes
 <br>
+A teeny tiny HTML website that makes use of the ul, ol, li, and a elements to create a list of recipes.
 
-WIP <br>
-<br>
-Will be editted at the end of the project!<br>
-
-Thank you for your patience :)
+Link to website: [drqrd.github.io/odin-recipes](drqrd.github.io/odin-recipes)
