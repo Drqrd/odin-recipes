@@ -1,0 +1,50 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+}
+body {
+    background-color:moccasin;
+}
+
+h1, h2 {
+    text-align: center;
+    margin-bottom: 75px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+#recipe_container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+ul {
+    padding-inline-start: 0px;
+    list-style-type: none;
+}
+li {
+    padding-bottom:10px;
+}
+
+.description {
+    text-align:center;
+}
+
+img {
+    margin: auto;
+}
+
+.image_wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+#instructions_container {
+    display:flex;
+    justify-content:center;
+}
+
+ol {
+    width: 80%;
+}
